@@ -1,7 +1,7 @@
 Hi there! I'm Akanksha
 Welcome to my GitHub profile! I'm an enthusiastic undergraduate student about to graduate with a BE in Information Science and Engineering. I have a passion for creating websites and enjoy working on projects that involve building new websites from scratch or updating and enhancing existing ones.
 💂‍♀️Skills and Interests
-🚀Web Development: I have a strong background in web development and enjoy working with various technologies to bring ideas to life. Whether it's crafting beautiful front-end interfaces using HTML, CSS, and JavaScript, or diving into back-end development with frameworks like Django, I thrive on creating dynamic and engaging web experiences.
+🚀Web Development: I have a strong background in web development and enjoy working with various technologies to bring ideas to life. Whether it's crafting beautiful front-end interfaces using HTML, CSS, and JavaScript, or diving into back-end development with frameworks like Flask, I thrive on creating dynamic and engaging web experiences.
 
 🚀Project Collaboration: I am a firm believer in the power of teamwork and collaboration. I enjoy working alongside fellow developers, designers, and stakeholders to bring projects to fruition. I value open communication, actively listening to others, and contributing constructively to achieve shared goals.
 
